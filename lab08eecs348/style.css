@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(229, 200, 227);
+    color: rgb(252, 252, 252);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+}
+
+body:hover {
+    background-color: rgb(215, 176, 227);
+    color: rgb(205, 75, 185);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    background-image: url("floralbackground.jpg");
+    background-size: 100%;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.center { /* Center picture.*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
